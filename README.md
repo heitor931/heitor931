@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=66CCFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Heitor+Paulo+👋;Full-Stack+Engineer+%7C+DevOps+Enthusiast;AI+Integrator+%7C+Cybersecurity+Learner;Passionate+about+Cloud+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=66CCFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Heitor+Paulo+👋;Full-Stack+Engineer+%7C+DevOps+Enthusiast;" alt="Typing SVG" />
 </p>
 
 
@@ -10,9 +10,7 @@
 <h3 align="center">🚀 About Me</h3>
 
 - 💻 Full-Stack Engineer with **JavaScript,React, Node.js, Next.js**  
-- ☁️ DevOps learner exploring **CI/CD, Docker, Kubernetes, AWS**  
-- 🔍 Aspiring **Bug Bounty Hunter** & Cybersecurity Professional  
-- 🤖 Passionate about **AI integration** into software projects  
+- ☁️ DevOps learner exploring **CI/CD, Docker, Kubernetes, AWS**   
 - 🎯 Goal: **Build high-impact SaaS**
 
 ---
@@ -28,6 +26,8 @@
   <br/>
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+  <!-- Deployment platforms -->
+
 </p>
 
 ---
@@ -59,10 +59,8 @@
 
 <h3 align="center">🌟 Featured Projects</h3>
 
-- **[SaaS Platform Template](https://github.com/your-repo)** – Scalable SaaS starter with Next.js & Stripe  
-- **[DevOps Pipeline Demo](https://github.com/your-repo)** – CI/CD setup with GitHub Actions, Docker, AWS  
-- **[Bug Bounty Toolkit](https://github.com/your-repo)** – Scripts & automation for pentesting  
-
+- **[Work and Life Management](https://next13-study-case.vercel.app/)** – A bundle of micro applications to manage work, personal finance, habits and notes to track Life. 
+  
 ---
 
 <h3 align="center">📫 Connect With Me</h3>
