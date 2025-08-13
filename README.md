@@ -59,7 +59,7 @@
 
 <h3 align="center">🌟 Featured Projects</h3>
 
-- **[Work and Life Management](https://next13-study-case.vercel.app/)** – A bundle of micro applications to manage work, personal finance, habits and notes to track Life. 
+- **[Work and Life Management](https://next13-study-case.vercel.app/)** – A bundle of 4 applications to manage projects, personal finance, habits and notes to track Life. 
   
 ---
 
