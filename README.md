@@ -18,7 +18,7 @@
 
 ---
 
-<h3 align="center">🚀 About Me</h3>
+<h3 font-size='12' align="center">🚀 About Me</h3>
 
 - 💻 Full-Stack Engineer — **JavaScript, React, Node.js, Next.js**
 - ☁️ DevOps learner — **CI/CD, Docker, Kubernetes, AWS**
