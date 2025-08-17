@@ -20,7 +20,7 @@
 
 <h3 font-size='12px' align="center">🚀 About Me</h3>
 
-- 💻 Full-Stack Engineer — **JavaScript, React, Node.js, Next.js, Postegres, MongoDB, Python, Bash, NGINX**
+- 💻 Full-Stack Engineer — **JavaScript, React, React Native, Node.js, Next.js, Postegres, MongoDB, Python, Bash, NGINX**
 - ☁️ DevOps learner — **CI/CD, Docker, Kubernetes, AWS, Monitoring & Logging, Security best practices**
 - 🎯 Goal: **Build high-impact SaaS**
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <!-- Languages & Frontend -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" alt="Frontend & languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,html,css,tailwind" alt="Frontend & languages" />
   <br/>
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,nginx,python" alt="Backend" />
