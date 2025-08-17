@@ -35,11 +35,11 @@
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,nginx,python" alt="Backend" />
   <br/>
-  <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bash" alt="DevOps" />
-  <br/>
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" alt="Databases" />
+  <br/>
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bash" alt="DevOps" />
 </p>
 
 ---
