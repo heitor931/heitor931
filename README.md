@@ -30,7 +30,7 @@
 
 <p align="center">
   <!-- Languages & Frontend -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,react-native,html,css,tailwind" alt="Frontend & languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" alt="Frontend & languages" />
   <br/>
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,nginx,python" alt="Backend" />
