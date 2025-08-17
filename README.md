@@ -18,10 +18,10 @@
 
 ---
 
-<h3 font-size='12' align="center">🚀 About Me</h3>
+<h3 font-size='12px' align="center">🚀 About Me</h3>
 
-- 💻 Full-Stack Engineer — **JavaScript, React, Node.js, Next.js, Postegres, MongoDB,Python, Bash**
-- ☁️ DevOps learner — **CI/CD, Docker, Kubernetes, AWS**
+- 💻 Full-Stack Engineer — **JavaScript, React, Node.js, Next.js, Postegres, MongoDB, Python, Bash, NGINX**
+- ☁️ DevOps learner — **CI/CD, Docker, Kubernetes, AWS, Monitoring & Logging, Security best practices**
 - 🎯 Goal: **Build high-impact SaaS**
 
 ---
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" alt="Frontend & languages" />
   <br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,python" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nginx, python" alt="Backend" />
   <br/>
   <!-- DevOps -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bash" alt="DevOps" />
