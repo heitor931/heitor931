@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" alt="Frontend & languages" />
   <br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,nginx, python" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nginx,python" alt="Backend" />
   <br/>
   <!-- DevOps -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bash" alt="DevOps" />
