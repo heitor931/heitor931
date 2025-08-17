@@ -20,7 +20,7 @@
 
 <h3 font-size='12' align="center">🚀 About Me</h3>
 
-- 💻 Full-Stack Engineer — **JavaScript, React, Node.js, Next.js**
+- 💻 Full-Stack Engineer — **JavaScript, React, Node.js, Next.js, Postegres, MongoDB,Python, Bash**
 - ☁️ DevOps learner — **CI/CD, Docker, Kubernetes, AWS**
 - 🎯 Goal: **Build high-impact SaaS**
 
