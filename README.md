@@ -44,6 +44,14 @@
 
 ---
 
+<h3 align="center">📜 Certifications</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LPIC--1-Linux%20Professional%20Institute-blue?style=for-the-badge&logo=linux&logoColor=white" alt="LPIC-1 Certification" />
+</p>
+
+---
+
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
