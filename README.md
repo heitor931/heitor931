@@ -21,7 +21,7 @@
 <h3 font-size='12px' align="center">🚀 About Me</h3>
 
 - 💻 Full-Stack Engineer — **JavaScript, React, Node.js, Next.js, Postgres, MongoDB, Python, Bash, NGINX.**
-- ☁️ DevOps learner — **CI/CD, Docker, Kubernetes, AWS, Monitoring & Logging, Microservices, System Design, Deployment best practices.**
+- ☁️ DevOps learner — **CI/CD, Docker, Kubernetes, AWS,Microservices, Monitoring,System Design,Deployment best practices.**
 - 🎯 Goals: **Build high-impact SaaS, stream scalable and high performance enterprise grade production systems.**
 
 ---
