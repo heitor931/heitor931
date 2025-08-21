@@ -22,7 +22,7 @@
 
 - 💻 Software Engineer — **JavaScript, React, Node.js, Next.js, Postgres, MongoDB, Python, Bash, NGINX.**
 - ☁️ DevOps learner — **CI/CD, Docker, Kubernetes, AWS, Microservices, Monitoring, System Design, Deployment.**
-- 🎯 Goals: **Build high-impact SaaS, stream scalable and high performance enterprise grade production systems on cloud or premise**
+- 🎯 Goals: **Build high-impact SaaS, stream scalable and high performance enterprise grade production systems on cloud or premise.**
 
 ---
 
